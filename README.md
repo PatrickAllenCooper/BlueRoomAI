@@ -1,4 +1,6 @@
-#Blue Room
+# Blue Room
+
+![banner](C:\Users\patri\Nextcloud\PersonalProjects\Blue_Room_AI\banner.png)
 
 ## Problem Type
 Network playground.
